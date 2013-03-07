@@ -4,4 +4,4 @@ In iPhone5, the screen size is a little bit large to me. But when we are develop
 
 http://youtu.be/oax95qQBmoU
 
-<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/oax95qQBmoU?hl=zh_TW&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/oax95qQBmoU?hl=zh_TW&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/oax95qQBmoU?rel=0" frameborder="0" allowfullscreen></iframe>
